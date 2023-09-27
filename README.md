@@ -1,7 +1,5 @@
 <h2> 👋 Hi, I’m Seishin LeBlanc! </h2> 
-<h3> I'm a diligent and adaptable Software Engineer, fresh from completing a rigorous coding bootcamp, with a strong foundation in modern web development technologies and practices.
-Adept at translating ideas into functional, user-centric applications, I am well-versed in full-stack development and enthusiastic about delivering efficient, scalable solutions.
-Eager to leverage my newly acquired skills and passion for coding to contribute effectively as part of a collaborative development team. </h3>
+<h3> With a background in digital marketing, I bring a fresh perspective to crafting innovative solutions that seamlessly blend technical expertise with a deep understanding of user engagement and conversion optimization. Join me on a journey where code meets creativity, and let's turn ideas into digital experiences. </h3>
 
 
 
